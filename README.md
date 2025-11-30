@@ -7,7 +7,7 @@ These scripts perform common sequence analysis tasks such as DNA/RNA conversion,
 
 C_Programs/         → C programs for sequence manipulation  
 Perl_BioPerl/       → BioPerl scripts for file format handling  
-Java_Bioinformatics/→ Java programs for DNA sequence analysis  
+Java/               → Java programs for DNA sequence analysis  
 PHP_MySQL/          → Simple web form + database insertion example  
 
 ## Included Programs 
