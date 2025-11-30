@@ -1,9 +1,9 @@
-Bioinformatics Utility Programs
+## Bioinformatics Utility Programs
 
 This repository contains a collection of bioinformatics programs written in C, Perl (BioPerl), Java, and PHP-MySQL.
 These scripts perform common sequence analysis tasks such as DNA/RNA conversion, GC content calculation, FASTA/EMBL conversions, and basic database operations.
 
-Folder Structure :
+# Folder Structure :
 
 C_Programs/         → C programs for sequence manipulation  
 Perl_BioPerl/       → BioPerl scripts for file format handling  
