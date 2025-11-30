@@ -32,7 +32,11 @@ insert.php — Insert form data into MySQL database.
 ## Technologies Used 
 
 C (GCC)
+
 Perl & BioPerl (SeqIO, Seq)
+
 Java (JDK 8+)
+
 PHP & MySQL
+
 HTML5
